@@ -1,6 +1,6 @@
 # MSPEXP430F5529-CCS_Examples
 ***
-Programación de microcontroladores de Texas Instrumetns usando el  MSP-EXP430F5529 USB Experimenter Board y el compilador Code Composer Studio, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [**E&R by MrChuckuee**] (https://mrchunckuee.blogspot.mx/p/msp-exp430f5529-experimenter-board.html)
+Programación de microcontroladores de Texas Instrumetns usando el  MSP-EXP430F5529 USB Experimenter Board y el compilador Code Composer Studio, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [**E&R by MrChuckuee**](https://mrchunckuee.blogspot.mx/p/msp-exp430f5529-experimenter-board.html)
 ***
 **Listado de material disponible:**
 - MSP-EXP430F5529_001: Introducción
