@@ -11,8 +11,8 @@ Programación de microcontroladores de Texas Instrumetns usando el  MSP-EXP430F5
 - MSP-EXP430F5529_000: Introducción
 - MSP-EXP430F5529_001: Toggle LED 
 - MSP-EXP430F5529_002: Ejemplo básico del ADC12_A
-- MSP-EXP430F5529_003: 102x64 LCD Basic test
-- MSP-EXP430F5529_004: 
+- MSP-EXP430F5529_004: 102x64 LCD Basic test
+- MSP-EXP430F5529_005: 
 
 ***
 Puedes seguirme en:
