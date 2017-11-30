@@ -1,3 +1,20 @@
+/*******************************************************************************
+ *
+ *      MSP-EXP430F5529_006: ¡Happy Hallowen!
+ *
+ *******************************************************************************
+ * FileName:        main.c
+ * Processor:       MSP430F5529
+ * Complier:        CCS 7.2.0.00013
+ * Author:          Pedro Sánchez Ramírez (MrChunckuee)
+ * Blog:            http://mrchunckuee.blogspot.com/
+ * Email:           mrchunckuee.psr@gmail.com
+ * Description:     Pequeño ejemplo  para mostrar el numero de bits y el voltaje
+ *                  presentes en el ADC.
+ *******************************************************************************
+ * Rev.     Date        Comment
+ *  v0.01   25/10/2017  - Creación del firmware
+ ******************************************************************************/
 #include <msp430.h> 
 #include <stdlib.h>
 #include "HAL_Dogs102x6.h"
@@ -89,7 +106,6 @@ void MCU_Init(void){
     Dogs102x6_setBacklight(11);
     Dogs102x6_setContrast(11);
     Dogs102x6_clearScreen();
-
 }
 
 void MCU_Delayms(int16_t time){
