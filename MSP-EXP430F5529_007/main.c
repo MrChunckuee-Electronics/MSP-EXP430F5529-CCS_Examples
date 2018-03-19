@@ -1,19 +1,19 @@
 /*******************************************************************************
  *
- *      MSP-EXP430F5529_007: Test rectangle funtion
+ *      MSP-EXP430F5529_007: Rectangle function test
  *
  *******************************************************************************
  * FileName:        main.c
  * Processor:       MSP430F5529
  * Complier:        CCS 7.2.0.00013
- * Author:          Pedro Sánchez Ramírez (MrChunckuee)
+ * Author:          Pedro SÃ¡nchez RamÃ­rez (MrChunckuee)
  * Blog:            http://mrchunckuee.blogspot.com/
  * Email:           mrchunckuee.psr@gmail.com
- * Description:     Pequeño ejemplo  para mostrar el funcionamiento de la funcion
+ * Description:     PequeÃ±o ejemplo  para mostrar el funcionamiento de la funcion
  *                  rectangle, agregada recientemente a la libreria HAL_Dogs102x6
  *******************************************************************************
  * Rev.     Date        Comment
- *  v0.01   25/10/2017  - Creación del firmware
+ *  v0.01   18/03/2018  - CreaciÃ³n del firmware
  ******************************************************************************/
 #include <msp430.h> 
 #include <stdlib.h>
