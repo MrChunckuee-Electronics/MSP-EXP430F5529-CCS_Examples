@@ -14,7 +14,7 @@ Programación de microcontroladores de Texas Instrumetns usando el  MSP-EXP430F5
 - MSP-EXP430F5529_004: 102x64 LCD Basic test
 - MSP-EXP430F5529_005: Leer y mostrar el voltaje del ADC
 - MSP-EXP430F5529_006: Happy Hallowen!
-- MSP-EXP430F5529_007:
+- MSP-EXP430F5529_007: Agregando la función Rectangle a la librería HAL_Dogs102x6.c
 
 ***
 Puedes seguirme en:
