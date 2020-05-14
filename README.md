@@ -24,4 +24,3 @@ Puedes seguirme en:
 - [Twitter](https://twitter.com/MrChunckuee)
 - [GitHub](https://github.com/MrChunckuee)
 - [YouTube](https://www.youtube.com/user/mrchunckueepsr)
-- [Google+](https://plus.google.com/u/0/+PedroSanchez-MrChunckuee)
