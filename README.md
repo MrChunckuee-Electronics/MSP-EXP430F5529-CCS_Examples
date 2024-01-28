@@ -25,5 +25,5 @@ Puedes seguirme en:
 - [GitHub](https://github.com/MrChunckuee)
 - [YouTube](https://www.youtube.com/user/mrchunckueepsr)
 
-> :Buttons
-> > :Button label=GitHub, url=https://github.com
+:Buttons
+:Button label=GitHub, url=https://github.com
