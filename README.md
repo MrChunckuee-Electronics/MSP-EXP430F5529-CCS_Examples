@@ -20,11 +20,7 @@ Programación de microcontroladores de Texas Instrumetns usando el  MSP-EXP430F5
 ***
 Puedes seguirme en:
 - [Blogspot](http://mrchunckuee.blogspot.com)
-- [Facebook](https://www.facebook.com/ElectronicayRobotica)
+- [Instagram](https://www.instagram.com/mrchunckuee_electronics/)
+- [Facebook](https://www.facebook.com/MrChunckueeElectronics)
 - [Twitter](https://twitter.com/MrChunckuee)
-- [GitHub](https://github.com/MrChunckuee)
-- [YouTube](https://www.youtube.com/user/mrchunckueepsr)
-
-<button type="button" name="button" class="btn">Button element</button>
-
-[Link button](https://just-the-docs.com){: .btn }
+- [YouTube](https://www.youtube.com/@MrChunckueeElectronics)
