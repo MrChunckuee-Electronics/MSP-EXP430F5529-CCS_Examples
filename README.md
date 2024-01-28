@@ -25,5 +25,6 @@ Puedes seguirme en:
 - [GitHub](https://github.com/MrChunckuee)
 - [YouTube](https://www.youtube.com/user/mrchunckueepsr)
 
-:Buttons
-:Button label=GitHub, url=https://github.com
+<button type="button" name="button" class="btn">Button element</button>
+
+[Link button](https://just-the-docs.com){: .btn }
