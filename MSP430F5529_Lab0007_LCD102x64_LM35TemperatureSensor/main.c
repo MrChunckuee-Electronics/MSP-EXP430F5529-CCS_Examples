@@ -1,18 +1,19 @@
 /*******************************************************************************
  *
- *      MSP-EXP430F5529_008: Temperature sensor using LM35
+ *      MSP-EXP430F5529 Lab0007: Temperature sensor using LM35 and LCD102x64
  *
  *******************************************************************************
  * FileName:        main.c
  * Processor:       MSP430F5529
  * Complier:        CCS 7.2.0.00013
- * Author:          Pedro Sánchez Ramírez (MrChunckuee)
+ * Author:          Pedro Sanchez Ramirez (MrChunckuee)
  * Blog:            http://mrchunckuee.blogspot.com/
- * Email:           mrchunckuee.psr@gmail.com
+ * Email:           mrchunckuee.electronics@gmail.com
  * Description:     Basic temperature sensor using the LM35
  *******************************************************************************
  * Rev.     Date        Comment
  *  v0.00   16/104/2018  - Firmware creation
+ *  v0.0.2  05/04/2026  - Compiled on CCS 20.5.0.28 and test on board.
  ******************************************************************************/
 #include <msp430.h> 
 #include <stdlib.h>
